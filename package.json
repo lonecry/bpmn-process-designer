@@ -85,6 +85,7 @@
         }
     },
     "prettier": {
+        "printWidth": 800,
         "useTabs": false,
         "tabWidth": 4,
         "formatOnSave": true,
